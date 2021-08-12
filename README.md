@@ -1,5 +1,5 @@
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3.3%20million%20lines%20of%20code-blue)
 
@@ -7,7 +7,7 @@
 
 > 🏆 712 Contributions in the Year 2021
  > 
-> 📦 18.7 kB Used in Github's Storage 
+> 📦 18.8 kB Used in Github's Storage 
  > 
 > 💼 Opted to Hire
  > 
@@ -44,17 +44,16 @@ Sunday       14 commits     ░░░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Tokyo
 
 💬 Programming Languages: 
-Python                   4 hrs 41 mins       ██████████████████████░░░   89.04% 
-JSON                     18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   5.76% 
-SQL                      10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   3.37% 
-Terraform                5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.81% 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.02%
+Python                   2 hrs 18 mins       ██████████████████████░░░   89.39% 
+SQL                      10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   6.88% 
+Terraform                5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   3.69% 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.03%
 
 🔥 Editors: 
-VS Code                  5 hrs 16 mins       █████████████████████████   100.0%
+VS Code                  2 hrs 34 mins       █████████████████████████   100.0%
 
 💻 Operating System: 
-Mac                      5 hrs 16 mins       █████████████████████████   100.0%
+Mac                      2 hrs 34 mins       █████████████████████████   100.0%
 
 ```
 
@@ -75,5 +74,5 @@ Jupyter Notebook         1 repo              █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/kitagawa-hr/kitagawa-hr/main/charts/bar_graph.png) 
 
 
- Last Updated on 11/08/2021
+ Last Updated on 12/08/2021
 <!--END_SECTION:waka-->
