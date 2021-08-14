@@ -44,15 +44,13 @@ Sunday       14 commits     ░░░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Tokyo
 
 💬 Programming Languages: 
-Python                   48 mins             ██████████████████░░░░░░░   74.89% 
-SQL                      10 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.34% 
-Terraform                5 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   8.77%
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  1 hr 5 mins         █████████████████████████   100.0%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      1 hr 5 mins         █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
@@ -73,5 +71,5 @@ Jupyter Notebook         1 repo              █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/kitagawa-hr/kitagawa-hr/main/charts/bar_graph.png) 
 
 
- Last Updated on 13/08/2021
+ Last Updated on 14/08/2021
 <!--END_SECTION:waka-->
