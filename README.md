@@ -7,7 +7,7 @@
 
 > 🏆 0 Contributions in the Year 2022
  > 
-> 📦 26.1 kB Used in GitHub's Storage 
+> 📦 26.2 kB Used in GitHub's Storage 
  > 
 > 💼 Opted to Hire
  > 
@@ -44,13 +44,15 @@ Sunday       13 commits     ░░░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Tokyo
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Smarty                   1 min               ███████████████████░░░░░░   75.96% 
+Python                   0 secs              ██████░░░░░░░░░░░░░░░░░░░   24.04% 
+Terraform                0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  2 mins              █████████████████████████   100.0%
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      2 mins              █████████████████████████   100.0%
 
 ```
 
@@ -71,5 +73,5 @@ Jupyter Notebook         1 repo              █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/kitagawa-hr/kitagawa-hr/main/charts/bar_graph.png) 
 
 
- Last Updated on 04/01/2022
+ Last Updated on 05/01/2022
 <!--END_SECTION:waka-->
