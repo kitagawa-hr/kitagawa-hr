@@ -1,5 +1,5 @@
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-4%20Million%20lines%20of%20code-blue)
 
@@ -7,7 +7,7 @@
 
 > 🏆 214 Contributions in the Year 2022
  > 
-> 📦 26.5 kB Used in GitHub's Storage 
+> 📦 26.0 kB Used in GitHub's Storage 
  > 
 > 💼 Opted to Hire
  > 
@@ -75,5 +75,5 @@ Jupyter Notebook         1 repo              █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/kitagawa-hr/kitagawa-hr/main/charts/bar_graph.png) 
 
 
- Last Updated on 16/04/2022 00:44:58 UTC
+ Last Updated on 18/04/2022 00:51:56 UTC
 <!--END_SECTION:waka-->
