@@ -1,13 +1,13 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-4-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-5%20Million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 241 Contributions in the Year 2022
+> 🏆 243 Contributions in the Year 2022
  > 
 > 📦 27.4 kB Used in GitHub's Storage 
  > 
@@ -46,17 +46,17 @@ Sunday       13 commits     ░░░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Tokyo
 
 💬 Programming Languages: 
-Rust                     5 hrs 37 mins       ██████████████████████░░░   91.3% 
-YAML                     13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   3.54% 
-Python                   11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   3.12% 
-Makefile                 7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.99% 
-Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.03%
+Rust                     4 hrs 18 mins       ██████████████████░░░░░░░   71.61% 
+Terraform                1 hr 2 mins         ████░░░░░░░░░░░░░░░░░░░░░   17.18% 
+Python                   27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   7.49% 
+YAML                     13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   3.63% 
+HCL                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.04%
 
 🔥 Editors: 
-VS Code                  6 hrs 9 mins        █████████████████████████   100.0%
+VS Code                  6 hrs               █████████████████████████   100.0%
 
 💻 Operating System: 
-Mac                      6 hrs 9 mins        █████████████████████████   100.0%
+Mac                      6 hrs               █████████████████████████   100.0%
 
 ```
 
@@ -77,5 +77,5 @@ Jupyter Notebook         1 repo              █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/kitagawa-hr/kitagawa-hr/main/charts/bar_graph.png) 
 
 
- Last Updated on 26/05/2022 00:57:05 UTC
+ Last Updated on 27/05/2022 00:54:33 UTC
 <!--END_SECTION:waka-->
