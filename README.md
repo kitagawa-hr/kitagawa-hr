@@ -9,7 +9,7 @@
 
 > 🏆 318 Contributions in the Year 2022
  > 
-> 📦 27.6 kB Used in GitHub's Storage 
+> 📦 27.5 kB Used in GitHub's Storage 
  > 
 > 💼 Opted to Hire
  > 
@@ -77,5 +77,5 @@ Shell                    1 repo              ░░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/kitagawa-hr/kitagawa-hr/main/charts/bar_graph.png) 
 
 
- Last Updated on 03/07/2022 00:58:31 UTC
+ Last Updated on 04/07/2022 01:00:10 UTC
 <!--END_SECTION:waka-->
