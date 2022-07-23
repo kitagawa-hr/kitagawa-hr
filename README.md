@@ -1,13 +1,13 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-5%20Million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 348 Contributions in the Year 2022
+> 🏆 349 Contributions in the Year 2022
  > 
 > 📦 27.6 kB Used in GitHub's Storage 
  > 
@@ -46,17 +46,17 @@ Sunday       13 commits     ░░░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Tokyo
 
 💬 Programming Languages: 
-Markdown                 1 hr 39 mins        ████████████████████████░   97.74% 
-Python                   1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   1.56% 
-Rust                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.52% 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.16% 
+Markdown                 1 hr 39 mins        ███████████████████░░░░░░   76.14% 
+Other                    29 mins             █████░░░░░░░░░░░░░░░░░░░░   22.21% 
+Python                   1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   1.21% 
+Rust                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.42% 
 TOML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.02%
 
 🔥 Editors: 
-VS Code                  1 hr 41 mins        █████████████████████████   100.0%
+VS Code                  2 hrs 10 mins       █████████████████████████   100.0%
 
 💻 Operating System: 
-Mac                      1 hr 41 mins        █████████████████████████   100.0%
+Mac                      2 hrs 10 mins       █████████████████████████   100.0%
 
 ```
 
@@ -77,5 +77,5 @@ Shell                    1 repo              ░░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/kitagawa-hr/kitagawa-hr/main/charts/bar_graph.png) 
 
 
- Last Updated on 22/07/2022 01:00:23 UTC
+ Last Updated on 23/07/2022 00:59:04 UTC
 <!--END_SECTION:waka-->
