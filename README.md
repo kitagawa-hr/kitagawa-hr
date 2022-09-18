@@ -1,5 +1,5 @@
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-467%20hrs%2050%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-467%20hrs%2057%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -7,7 +7,7 @@
 
 **🐱 My GitHub Data** 
 
-> 🏆 393 Contributions in the Year 2022
+> 🏆 394 Contributions in the Year 2022
  > 
 > 📦 27.7 kB Used in GitHub's Storage 
  > 
@@ -46,15 +46,15 @@ Sunday       13 commits     ░░░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Tokyo
 
 💬 Programming Languages: 
-Rust                     2 hrs 5 mins        █████████████░░░░░░░░░░░░   53.7% 
-Python                   1 hr 48 mins        ███████████░░░░░░░░░░░░░░   46.17% 
-CSV                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.13%
+Rust                     2 hrs 34 mins       ████████████░░░░░░░░░░░░░   51.4% 
+Python                   2 hrs 25 mins       ████████████░░░░░░░░░░░░░   48.5% 
+CSV                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.1%
 
 🔥 Editors: 
-VS Code                  3 hrs 54 mins       █████████████████████████   100.0%
+VS Code                  4 hrs 59 mins       █████████████████████████   100.0%
 
 💻 Operating System: 
-Mac                      3 hrs 54 mins       █████████████████████████   100.0%
+Mac                      4 hrs 59 mins       █████████████████████████   100.0%
 
 ```
 
@@ -75,5 +75,5 @@ Shell                    1 repo              ░░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/kitagawa-hr/kitagawa-hr/main/charts/bar_graph.png) 
 
 
- Last Updated on 17/09/2022 01:02:07 UTC
+ Last Updated on 18/09/2022 01:07:44 UTC
 <!--END_SECTION:waka-->
