@@ -1,5 +1,5 @@
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-467%20hrs%2057%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-469%20hrs%202%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -75,5 +75,5 @@ Shell                    1 repo              ░░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/kitagawa-hr/kitagawa-hr/main/charts/bar_graph.png) 
 
 
- Last Updated on 18/09/2022 01:07:44 UTC
+ Last Updated on 19/09/2022 01:09:36 UTC
 <!--END_SECTION:waka-->
