@@ -1,5 +1,5 @@
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-470%20hrs%2013%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-472%20hrs%2019%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -46,14 +46,15 @@ Sunday       13 commits     ░░░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Tokyo
 
 💬 Programming Languages: 
-Rust                     1 hr 38 mins        █████████████████░░░░░░░░   69.47% 
-Python                   43 mins             ███████░░░░░░░░░░░░░░░░░░   30.53%
+Rust                     3 hrs 44 mins       █████████████████████░░░░   85.35% 
+Python                   37 mins             ███░░░░░░░░░░░░░░░░░░░░░░   14.17% 
+TOML                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   0.48%
 
 🔥 Editors: 
-VS Code                  2 hrs 22 mins       █████████████████████████   100.0%
+VS Code                  4 hrs 22 mins       █████████████████████████   100.0%
 
 💻 Operating System: 
-Mac                      2 hrs 22 mins       █████████████████████████   100.0%
+Mac                      4 hrs 22 mins       █████████████████████████   100.0%
 
 ```
 
@@ -74,5 +75,5 @@ Shell                    1 repo              ░░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/kitagawa-hr/kitagawa-hr/main/charts/bar_graph.png) 
 
 
- Last Updated on 24/09/2022 01:13:06 UTC
+ Last Updated on 25/09/2022 01:09:53 UTC
 <!--END_SECTION:waka-->
