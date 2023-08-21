@@ -1,7 +1,7 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-698%20hrs%2052%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
 
 **🐱 My GitHub Data** 
 
@@ -42,14 +42,13 @@ Sunday                   16 commits          ░░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Tokyo
 
 💬 Programming Languages: 
-Rust                     4 mins              █████████████████████████   98.89 % 
-Git Config               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.11 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  4 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      4 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Python** 
@@ -65,5 +64,5 @@ TypeScript               1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 20/08/2023 00:38:50 UTC
+ Last Updated on 21/08/2023 00:36:54 UTC
 <!--END_SECTION:waka-->
