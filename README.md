@@ -1,6 +1,6 @@
-<!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+![](https://komarev.com/ghpvc/?username=kitagawa-hr)
 
+<!--START_SECTION:waka-->
 **🐱 My GitHub Data** 
 
 > 📦 27.9 kB Used in GitHub's Storage 
