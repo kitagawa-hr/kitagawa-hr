@@ -42,14 +42,13 @@ Sunday                   10 commits          ░░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Tokyo
 
 💬 Programming Languages: 
-Nushell                  0 secs              ███████████████░░░░░░░░░░   58.82 % 
-Bash                     0 secs              ██████████░░░░░░░░░░░░░░░   41.18 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  0 secs              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      0 secs              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Python** 
@@ -65,5 +64,5 @@ TypeScript               1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 29/12/2023 00:33:11 UTC
+ Last Updated on 30/12/2023 00:39:28 UTC
 <!--END_SECTION:waka-->
