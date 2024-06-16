@@ -1,8 +1,6 @@
 ![](https://komarev.com/ghpvc/?username=kitagawa-hr)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-869%20hrs%2052%20mins-blue)
-
 **🐱 My GitHub Data** 
 
 > 📦 28.1 kB Used in GitHub's Storage 
@@ -69,5 +67,5 @@ TypeScript               1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 15/06/2024 00:43:17 UTC
+ Last Updated on 16/06/2024 00:47:47 UTC
 <!--END_SECTION:waka-->
