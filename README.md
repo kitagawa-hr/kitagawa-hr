@@ -1,13 +1,11 @@
 ![](https://komarev.com/ghpvc/?username=kitagawa-hr)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C288%20hrs%201%20min-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C293%20hrs%2034%20mins-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 28.2 kB Used in GitHub's Storage 
- > 
-> 🏆 670 Contributions in the Year 2024
  > 
 > 💼 Opted to Hire
  > 
@@ -69,5 +67,5 @@ F#                       1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 28/12/2024 00:49:55 UTC
+ Last Updated on 29/12/2024 00:56:01 UTC
 <!--END_SECTION:waka-->
