@@ -7,7 +7,7 @@
 
 > 📦 28.2 kB Used in GitHub's Storage 
  > 
-> 🏆 16 Contributions in the Year 2025
+> 🏆 0 Contributions in the Year 2025
  > 
 > 💼 Opted to Hire
  > 
@@ -42,14 +42,13 @@ Sunday                   10 commits          █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Tokyo
 
 💬 Programming Languages: 
-Nix                      3 mins              ██████████████░░░░░░░░░░░   55.19 % 
-YAML                     2 mins              ███████████░░░░░░░░░░░░░░   44.81 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-Neovim                   5 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      5 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Python** 
@@ -65,5 +64,5 @@ F#                       1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 25/01/2025 00:46:34 UTC
+ Last Updated on 26/01/2025 00:51:26 UTC
 <!--END_SECTION:waka-->
