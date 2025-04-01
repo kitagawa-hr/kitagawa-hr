@@ -1,11 +1,13 @@
 ![](https://komarev.com/ghpvc/?username=kitagawa-hr)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C341%20hrs%2025%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C341%20hrs%2050%20mins-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 28.3 kB Used in GitHub's Storage 
+ > 
+> 🏆 29 Contributions in the Year 2025
  > 
 > 💼 Opted to Hire
  > 
@@ -40,8 +42,8 @@ Sunday                   10 commits          █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Tokyo
 
 💬 Programming Languages: 
-Lua                      15 mins             ███████████████░░░░░░░░░░   60.56 % 
-Rust                     10 mins             ██████████░░░░░░░░░░░░░░░   38.92 % 
+Lua                      15 mins             ███████████████░░░░░░░░░░   60.43 % 
+Rust                     10 mins             ██████████░░░░░░░░░░░░░░░   39.05 % 
 Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.52 % 
 
 🔥 Editors: 
@@ -64,5 +66,5 @@ F#                       1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 31/03/2025 00:58:01 UTC
+ Last Updated on 01/04/2025 01:01:57 UTC
 <!--END_SECTION:waka-->
