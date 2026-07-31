@@ -9,7 +9,7 @@
 
 > 📦 29.0 kB Used in GitHub's Storage 
  > 
-> 🏆 928 Contributions in the Year 2026
+> 🏆 947 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -44,40 +44,23 @@ Sunday                   358 commits         ██████████░�
 🕑︎ Time Zone: Asia/Tokyo
 
 💬 Programming Languages: 
-Python                   1 hr 2 mins         █████████████████░░░░░░░░   69.10 % 
-Nix                      15 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.22 % 
-conf                     7 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.42 % 
-Kotlin                   4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.94 % 
-CSV                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 % 
+Python                   1 hr 2 mins         ████████████████████░░░░░   80.60 % 
+conf                     7 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   09.82 % 
+Kotlin                   6 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.91 % 
+Nix                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 % 
+CSV                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 % 
 
 🔥 Editors: 
-Neovim                   1 hr 14 mins        █████████████████████░░░░   82.98 % 
-Codex CLI                15 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.02 % 
+Neovim                   1 hr 17 mins        █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      1 hr 30 mins        █████████████████████████   100.00 % 
+Mac                      1 hr 17 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 15 mins (17.02%)
-
-✍️ 9 lines written by AI, 274 lines written by hand (3.18% AI-written)
-
-🔤 4,904,579 Input Tokens, 10,099 Output Tokens
-
-💵 $24.83 Estimated AI Cost This Week
-
-🧠 1 AI Sessions, 2 AI Prompts
-
-GPT                      14 lines            █████████████████████████   100.00 % 
-
-🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 3.18% of written lines came from AI
-📝 Concise Prompter — average 60 characters per prompt
-🔁 Iterative Prompter — average 2 prompts per session
-🔍 Hands-On Reviewer — 97.34% of changed lines were hand-edited
+No AI Coding Activity Tracked This Week
 ```
 
 **I Mostly Code in Python** 
@@ -93,5 +76,5 @@ Rust                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 30/07/2026 01:40:41 UTC
+ Last Updated on 31/07/2026 01:58:00 UTC
 <!--END_SECTION:waka-->
