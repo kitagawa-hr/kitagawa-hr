@@ -1,7 +1,7 @@
 ![](https://komarev.com/ghpvc/?username=kitagawa-hr)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C049%20hrs%2010%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C049%20hrs%2017%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-4%20hrs%2035%20mins-blue?style=flat)
 
@@ -44,17 +44,15 @@ Sunday                   358 commits         ██████████░�
 🕑︎ Time Zone: Asia/Tokyo
 
 💬 Programming Languages: 
-Python                   1 hr 2 mins         ████████████████████░░░░░   80.60 % 
-conf                     7 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   09.82 % 
-Kotlin                   6 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.91 % 
-Nix                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 % 
-CSV                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 % 
+Kotlin                   6 mins              ████████████████████████░   97.41 % 
+fish                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.89 % 
+Lua                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.71 % 
 
 🔥 Editors: 
-Neovim                   1 hr 17 mins        █████████████████████████   100.00 % 
+Neovim                   7 mins              █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      1 hr 17 mins        █████████████████████████   100.00 % 
+Mac                      7 mins              █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -76,5 +74,5 @@ Rust                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 31/07/2026 01:58:00 UTC
+ Last Updated on 01/08/2026 01:59:04 UTC
 <!--END_SECTION:waka-->
