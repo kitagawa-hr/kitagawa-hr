@@ -44,15 +44,16 @@ Sunday                   358 commits         ██████████░�
 🕑︎ Time Zone: Asia/Tokyo
 
 💬 Programming Languages: 
-Kotlin                   6 mins              ████████████████████████░   97.41 % 
-fish                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.89 % 
-Lua                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.71 % 
+conf                     1 hr 6 mins         ███████████████████████░░   90.38 % 
+Kotlin                   6 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   09.37 % 
+fish                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 % 
+Lua                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 % 
 
 🔥 Editors: 
-Neovim                   7 mins              █████████████████████████   100.00 % 
+Neovim                   1 hr 13 mins        █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      7 mins              █████████████████████████   100.00 % 
+Mac                      1 hr 13 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -74,5 +75,5 @@ Rust                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 02/08/2026 01:55:13 UTC
+ Last Updated on 03/08/2026 01:57:48 UTC
 <!--END_SECTION:waka-->
