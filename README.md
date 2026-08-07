@@ -1,15 +1,11 @@
 ![](https://komarev.com/ghpvc/?username=kitagawa-hr)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C050%20hrs%2023%20mins-blue?style=flat)
-
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-4%20hrs%2035%20mins-blue?style=flat)
-
 **🐱 My GitHub Data** 
 
 > 📦 29.0 kB Used in GitHub's Storage 
  > 
-> 🏆 964 Contributions in the Year 2026
+> 🏆 980 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -44,17 +40,17 @@ Sunday                   358 commits         ██████████░�
 🕑︎ Time Zone: Asia/Tokyo
 
 💬 Programming Languages: 
-conf                     1 hr 6 mins         ████████████████░░░░░░░░░   65.93 % 
-Markdown                 23 mins             ██████░░░░░░░░░░░░░░░░░░░   23.25 % 
-Kotlin                   7 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.95 % 
-JavaScript               3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.82 % 
-Lua                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
+conf                     1 hr 6 mins         ████████████████░░░░░░░░░   62.99 % 
+Markdown                 23 mins             ██████░░░░░░░░░░░░░░░░░░░   22.10 % 
+Python                   10 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.80 % 
+JavaScript               3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.62 % 
+Kotlin                   1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.49 % 
 
 🔥 Editors: 
-Neovim                   1 hr 40 mins        █████████████████████████   100.00 % 
+Neovim                   1 hr 46 mins        █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      1 hr 40 mins        █████████████████████████   100.00 % 
+Mac                      1 hr 46 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -76,5 +72,5 @@ Rust                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 06/08/2026 01:45:41 UTC
+ Last Updated on 07/08/2026 02:10:15 UTC
 <!--END_SECTION:waka-->
