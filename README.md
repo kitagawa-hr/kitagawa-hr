@@ -1,11 +1,15 @@
 ![](https://komarev.com/ghpvc/?username=kitagawa-hr)
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C051%20hrs%201%20min-blue?style=flat)
+
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-4%20hrs%2035%20mins-blue?style=flat)
+
 **🐱 My GitHub Data** 
 
 > 📦 29.0 kB Used in GitHub's Storage 
  > 
-> 🏆 980 Contributions in the Year 2026
+> 🏆 1,003 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -72,5 +76,5 @@ Rust                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 07/08/2026 02:10:15 UTC
+ Last Updated on 08/08/2026 00:57:57 UTC
 <!--END_SECTION:waka-->
