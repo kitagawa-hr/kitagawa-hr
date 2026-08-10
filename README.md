@@ -44,17 +44,17 @@ Sunday                   358 commits         ██████████░�
 🕑︎ Time Zone: Asia/Tokyo
 
 💬 Programming Languages: 
-conf                     1 hr 6 mins         ████████████████░░░░░░░░░   62.99 % 
-Markdown                 23 mins             ██████░░░░░░░░░░░░░░░░░░░   22.10 % 
-Python                   10 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.80 % 
-JavaScript               3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.62 % 
-Kotlin                   1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.49 % 
+Markdown                 23 mins             ████████████░░░░░░░░░░░░░   49.60 % 
+Python                   10 mins             ██████░░░░░░░░░░░░░░░░░░░   22.00 % 
+Other                    7 mins              ████░░░░░░░░░░░░░░░░░░░░░   16.75 % 
+JavaScript               3 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.13 % 
+Kotlin                   1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   03.34 % 
 
 🔥 Editors: 
-Neovim                   1 hr 46 mins        █████████████████████████   100.00 % 
+Neovim                   47 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      1 hr 46 mins        █████████████████████████   100.00 % 
+Mac                      47 mins             █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -76,5 +76,5 @@ Rust                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 09/08/2026 01:01:19 UTC
+ Last Updated on 10/08/2026 01:03:11 UTC
 <!--END_SECTION:waka-->
