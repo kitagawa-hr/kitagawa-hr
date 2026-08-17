@@ -44,17 +44,17 @@ Sunday                   358 commits         ██████████░�
 🕑︎ Time Zone: Asia/Tokyo
 
 💬 Programming Languages: 
-Python                   32 mins             ██████████░░░░░░░░░░░░░░░   38.16 % 
-Kotlin                   16 mins             █████░░░░░░░░░░░░░░░░░░░░   18.66 % 
-YAML                     11 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.22 % 
-Other                    7 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   09.25 % 
-Markdown                 5 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.28 % 
+Python                   32 mins             ███████████░░░░░░░░░░░░░░   42.10 % 
+Kotlin                   16 mins             █████░░░░░░░░░░░░░░░░░░░░   20.59 % 
+YAML                     11 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.58 % 
+Markdown                 5 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.93 % 
+GraphQL                  5 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.93 % 
 
 🔥 Editors: 
-Neovim                   1 hr 25 mins        █████████████████████████   100.00 % 
+Neovim                   1 hr 17 mins        █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      1 hr 25 mins        █████████████████████████   100.00 % 
+Mac                      1 hr 17 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -76,5 +76,5 @@ Rust                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 16/08/2026 00:44:37 UTC
+ Last Updated on 17/08/2026 00:43:20 UTC
 <!--END_SECTION:waka-->
