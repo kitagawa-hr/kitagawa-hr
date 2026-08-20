@@ -1,7 +1,7 @@
 ![](https://komarev.com/ghpvc/?username=kitagawa-hr)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C052%20hrs%2019%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C052%20hrs%2041%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-4%20hrs%2035%20mins-blue?style=flat)
 
@@ -9,7 +9,7 @@
 
 > 📦 29.0 kB Used in GitHub's Storage 
  > 
-> 🏆 1,123 Contributions in the Year 2026
+> 🏆 1,141 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -44,17 +44,17 @@ Sunday                   358 commits         ██████████░�
 🕑︎ Time Zone: Asia/Tokyo
 
 💬 Programming Languages: 
-conf                     22 mins             ████████████████░░░░░░░░░   65.85 % 
-GraphQL                  5 mins              ████░░░░░░░░░░░░░░░░░░░░░   15.73 % 
-Lua                      5 mins              ████░░░░░░░░░░░░░░░░░░░░░   15.29 % 
-YAML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.61 % 
-Kotlin                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.02 % 
+conf                     22 mins             ██████████████░░░░░░░░░░░   54.76 % 
+Terraform                6 mins              ████░░░░░░░░░░░░░░░░░░░░░   14.75 % 
+Nix                      5 mins              ███░░░░░░░░░░░░░░░░░░░░░░   13.66 % 
+GraphQL                  5 mins              ███░░░░░░░░░░░░░░░░░░░░░░   13.09 % 
+YAML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.34 % 
 
 🔥 Editors: 
-Neovim                   34 mins             █████████████████████████   100.00 % 
+Neovim                   41 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      34 mins             █████████████████████████   100.00 % 
+Mac                      41 mins             █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -76,5 +76,5 @@ Rust                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 19/08/2026 00:42:35 UTC
+ Last Updated on 20/08/2026 00:42:22 UTC
 <!--END_SECTION:waka-->
