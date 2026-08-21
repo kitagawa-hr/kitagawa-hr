@@ -1,7 +1,7 @@
 ![](https://komarev.com/ghpvc/?username=kitagawa-hr)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C052%20hrs%2041%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C052%20hrs%2053%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-4%20hrs%2035%20mins-blue?style=flat)
 
@@ -9,7 +9,7 @@
 
 > 📦 29.0 kB Used in GitHub's Storage 
  > 
-> 🏆 1,141 Contributions in the Year 2026
+> 🏆 1,147 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -44,23 +44,40 @@ Sunday                   358 commits         ██████████░�
 🕑︎ Time Zone: Asia/Tokyo
 
 💬 Programming Languages: 
-conf                     22 mins             ██████████████░░░░░░░░░░░   54.76 % 
-Terraform                6 mins              ████░░░░░░░░░░░░░░░░░░░░░   14.75 % 
-Nix                      5 mins              ███░░░░░░░░░░░░░░░░░░░░░░   13.66 % 
-GraphQL                  5 mins              ███░░░░░░░░░░░░░░░░░░░░░░   13.09 % 
-YAML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.34 % 
+Nix                      47 mins             ██████████████░░░░░░░░░░░   55.46 % 
+conf                     23 mins             ███████░░░░░░░░░░░░░░░░░░   27.75 % 
+Terraform                7 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.25 % 
+GraphQL                  5 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.28 % 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.00 % 
 
 🔥 Editors: 
-Neovim                   41 mins             █████████████████████████   100.00 % 
+Neovim                   45 mins             █████████████░░░░░░░░░░░░   53.36 % 
+Claude Code              39 mins             ████████████░░░░░░░░░░░░░   46.64 % 
 
 💻 Operating System: 
-Mac                      41 mins             █████████████████████████   100.00 % 
+Mac                      1 hr 25 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-No AI Coding Activity Tracked This Week
+⏱ AI Coding Time: 40 mins (47.45%)
+
+✍️ 68 lines written by AI, 77 lines written by hand (46.9% AI-written)
+
+🔤 344,434 Input Tokens, 53,894 Output Tokens
+
+💵 $3.07 Estimated AI Cost This Week
+
+🧠 2 AI Sessions, 2 AI Prompts
+
+Sonnet                   71 lines            █████████████████████████   100.00 % 
+
+🔎 AI Coding Insights:
+⚖️ Balanced with AI — 46.9% of written lines came from AI
+📝 Concise Prompter — average 93 characters per prompt
+🎯 One-Shot Prompter — average 1 prompts per session
+🔍 Hands-On Reviewer — 62.63% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -76,5 +93,5 @@ Rust                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 20/08/2026 00:42:22 UTC
+ Last Updated on 21/08/2026 00:45:31 UTC
 <!--END_SECTION:waka-->
