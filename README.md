@@ -9,7 +9,7 @@
 
 > 📦 29.0 kB Used in GitHub's Storage 
  > 
-> 🏆 1,147 Contributions in the Year 2026
+> 🏆 1,171 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -44,40 +44,40 @@ Sunday                   358 commits         ██████████░�
 🕑︎ Time Zone: Asia/Tokyo
 
 💬 Programming Languages: 
-Nix                      47 mins             ██████████████░░░░░░░░░░░   55.46 % 
-conf                     23 mins             ███████░░░░░░░░░░░░░░░░░░   27.75 % 
-Terraform                7 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.25 % 
-GraphQL                  5 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.28 % 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.00 % 
+Nix                      47 mins             ██████████░░░░░░░░░░░░░░░   38.64 % 
+conf                     25 mins             █████░░░░░░░░░░░░░░░░░░░░   20.80 % 
+Markdown                 23 mins             █████░░░░░░░░░░░░░░░░░░░░   18.99 % 
+TypeScript               18 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.68 % 
+Terraform                7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.75 % 
 
 🔥 Editors: 
-Neovim                   45 mins             █████████████░░░░░░░░░░░░   53.36 % 
-Claude Code              39 mins             ████████████░░░░░░░░░░░░░   46.64 % 
+Claude Code              1 hr 21 mins        █████████████████░░░░░░░░   66.49 % 
+Neovim                   41 mins             ████████░░░░░░░░░░░░░░░░░   33.51 % 
 
 💻 Operating System: 
-Mac                      1 hr 25 mins        █████████████████████████   100.00 % 
+Mac                      2 hrs 2 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 40 mins (47.45%)
+⏱ AI Coding Time: 1 hr 23 mins (68.08%)
 
-✍️ 68 lines written by AI, 77 lines written by hand (46.9% AI-written)
+✍️ 158 lines written by AI, 88 lines written by hand (64.23% AI-written)
 
-🔤 344,434 Input Tokens, 53,894 Output Tokens
+🔤 1,076,578 Input Tokens, 124,747 Output Tokens
 
-💵 $3.07 Estimated AI Cost This Week
+💵 $9.90 Estimated AI Cost This Week
 
-🧠 2 AI Sessions, 2 AI Prompts
+🧠 3 AI Sessions, 8 AI Prompts
 
-Sonnet                   71 lines            █████████████████████████   100.00 % 
+Sonnet                   165 lines           █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-⚖️ Balanced with AI — 46.9% of written lines came from AI
-📝 Concise Prompter — average 93 characters per prompt
-🎯 One-Shot Prompter — average 1 prompts per session
-🔍 Hands-On Reviewer — 62.63% of changed lines were hand-edited
+⚖️ Balanced with AI — 64.23% of written lines came from AI
+📚 Verbose Prompter — average 7,380 characters per prompt
+🔁 Iterative Prompter — average 3 prompts per session
+🚀 High AI Trust — 44.26% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -93,5 +93,5 @@ Rust                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 21/08/2026 00:45:31 UTC
+ Last Updated on 22/08/2026 00:42:26 UTC
 <!--END_SECTION:waka-->
