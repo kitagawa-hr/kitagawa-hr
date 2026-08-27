@@ -1,7 +1,7 @@
 ![](https://komarev.com/ghpvc/?username=kitagawa-hr)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C053%20hrs%2037%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C053%20hrs%2043%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-5%20hrs%2018%20mins-blue?style=flat)
 
@@ -9,7 +9,7 @@
 
 > 📦 29.0 kB Used in GitHub's Storage 
  > 
-> 🏆 1,205 Contributions in the Year 2026
+> 🏆 1,206 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -44,26 +44,26 @@ Sunday                   358 commits         ██████████░�
 🕑︎ Time Zone: Asia/Tokyo
 
 💬 Programming Languages: 
-Markdown                 23 mins             █████████░░░░░░░░░░░░░░░░   36.94 % 
-TypeScript               18 mins             ███████░░░░░░░░░░░░░░░░░░   28.75 % 
-conf                     8 mins              ███░░░░░░░░░░░░░░░░░░░░░░   13.23 % 
-Terraform                7 mins              ███░░░░░░░░░░░░░░░░░░░░░░   11.26 % 
-Nix                      5 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.95 % 
+Markdown                 23 mins             ████████████░░░░░░░░░░░░░   46.29 % 
+TypeScript               18 mins             █████████░░░░░░░░░░░░░░░░   36.03 % 
+Nix                      5 mins              ███░░░░░░░░░░░░░░░░░░░░░░   11.11 % 
+conf                     2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.47 % 
+Kotlin                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.08 % 
 
 🔥 Editors: 
-Claude Code              41 mins             █████████████████░░░░░░░░   66.57 % 
-Neovim                   20 mins             ████████░░░░░░░░░░░░░░░░░   33.43 % 
+Claude Code              41 mins             █████████████████████░░░░   83.42 % 
+Neovim                   8 mins              ████░░░░░░░░░░░░░░░░░░░░░   16.58 % 
 
 💻 Operating System: 
-Mac                      1 hr 2 mins         █████████████████████████   100.00 % 
+Mac                      50 mins             █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 43 mins (68.57%)
+⏱ AI Coding Time: 43 mins (85.93%)
 
-✍️ 90 lines written by AI, 82 lines written by hand (52.33% AI-written)
+✍️ 90 lines written by AI, 21 lines written by hand (81.08% AI-written)
 
 🔤 732,144 Input Tokens, 70,853 Output Tokens
 
@@ -74,10 +74,10 @@ Mac                      1 hr 2 mins         ███████████�
 Sonnet                   91 lines            █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-⚖️ Balanced with AI — 52.33% of written lines came from AI
+🤖 AI-Driven — 81.08% of written lines came from AI
 📚 Verbose Prompter — average 9,808 characters per prompt
 🔁 Iterative Prompter — average 6 prompts per session
-🔍 Hands-On Reviewer — 55.02% of changed lines were hand-edited
+🚀 High AI Trust — 18.97% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -93,5 +93,5 @@ Rust                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 26/08/2026 00:44:41 UTC
+ Last Updated on 27/08/2026 05:55:10 UTC
 <!--END_SECTION:waka-->
