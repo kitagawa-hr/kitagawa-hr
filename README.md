@@ -9,7 +9,7 @@
 
 > 📦 29.0 kB Used in GitHub's Storage 
  > 
-> 🏆 1,663 Contributions in the Year 2026
+> 🏆 1,680 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -44,13 +44,15 @@ Sunday                   358 commits         ██████████░�
 🕑︎ Time Zone: Asia/Tokyo
 
 💬 Programming Languages: 
-Kotlin                   0 secs              █████████████████████████   100.00 % 
+Nix                      11 mins             █████████████████████░░░░   84.61 % 
+conf                     1 min               ███░░░░░░░░░░░░░░░░░░░░░░   11.83 % 
+Kotlin                   0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   03.56 % 
 
 🔥 Editors: 
-Neovim                   0 secs              █████████████████████████   100.00 % 
+Neovim                   13 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      0 secs              █████████████████████████   100.00 % 
+Mac                      13 mins             █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -72,5 +74,5 @@ Rust                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 29/09/2026 03:25:29 UTC
+ Last Updated on 30/09/2026 03:08:17 UTC
 <!--END_SECTION:waka-->
