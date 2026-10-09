@@ -9,7 +9,7 @@
 
 > 📦 29.0 kB Used in GitHub's Storage 
  > 
-> 🏆 1,788 Contributions in the Year 2026
+> 🏆 1,799 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -44,26 +44,26 @@ Sunday                   358 commits         ██████████░�
 🕑︎ Time Zone: Asia/Tokyo
 
 💬 Programming Languages: 
-Other                    53 mins             ████████████░░░░░░░░░░░░░   49.70 % 
-Nix                      27 mins             ██████░░░░░░░░░░░░░░░░░░░   25.37 % 
-Markdown                 22 mins             █████░░░░░░░░░░░░░░░░░░░░   20.97 % 
-Text                     4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.93 % 
-YAML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
+Other                    53 mins             ████████████░░░░░░░░░░░░░   47.96 % 
+Nix                      27 mins             ██████░░░░░░░░░░░░░░░░░░░   24.48 % 
+Markdown                 22 mins             █████░░░░░░░░░░░░░░░░░░░░   20.23 % 
+Text                     4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.79 % 
+fish                     3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.94 % 
 
 🔥 Editors: 
-Claude Code              1 hr 11 mins        █████████████████░░░░░░░░   66.60 % 
-Neovim                   36 mins             ████████░░░░░░░░░░░░░░░░░   33.40 % 
+Claude Code              1 hr 11 mins        ████████████████░░░░░░░░░   64.27 % 
+Neovim                   39 mins             █████████░░░░░░░░░░░░░░░░   35.73 % 
 
 💻 Operating System: 
-Mac                      1 hr 47 mins        █████████████████████████   100.00 % 
+Mac                      1 hr 51 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 hr 47 mins (99.98%)
+⏱ AI Coding Time: 1 hr 47 mins (96.48%)
 
-✍️ 0 lines written by AI, 15 lines written by hand (0.0% AI-written)
+✍️ 0 lines written by AI, 27 lines written by hand (0.0% AI-written)
 
 🔤 559,613 Input Tokens, 46,945 Output Tokens
 
@@ -93,5 +93,5 @@ Rust                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 08/10/2026 03:41:57 UTC
+ Last Updated on 09/10/2026 03:47:21 UTC
 <!--END_SECTION:waka-->
