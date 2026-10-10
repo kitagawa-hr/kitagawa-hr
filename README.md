@@ -1,7 +1,7 @@
 ![](https://komarev.com/ghpvc/?username=kitagawa-hr)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C055%20hrs%2013%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C055%20hrs%2017%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-7%20hrs%206%20mins-blue?style=flat)
 
@@ -9,7 +9,7 @@
 
 > 📦 29.0 kB Used in GitHub's Storage 
  > 
-> 🏆 1,799 Contributions in the Year 2026
+> 🏆 1,807 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -44,39 +44,39 @@ Sunday                   358 commits         ██████████░�
 🕑︎ Time Zone: Asia/Tokyo
 
 💬 Programming Languages: 
-Other                    53 mins             ████████████░░░░░░░░░░░░░   47.96 % 
-Nix                      27 mins             ██████░░░░░░░░░░░░░░░░░░░   24.48 % 
-Markdown                 22 mins             █████░░░░░░░░░░░░░░░░░░░░   20.23 % 
-Text                     4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.79 % 
-fish                     3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.94 % 
+Python                   31 mins             ███████████░░░░░░░░░░░░░░   45.67 % 
+TypeScript               13 mins             █████░░░░░░░░░░░░░░░░░░░░   19.64 % 
+Other                    9 mins              ███░░░░░░░░░░░░░░░░░░░░░░   13.84 % 
+Markdown                 8 mins              ███░░░░░░░░░░░░░░░░░░░░░░   11.83 % 
+fish                     3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.81 % 
 
 🔥 Editors: 
-Claude Code              1 hr 11 mins        ████████████████░░░░░░░░░   64.27 % 
-Neovim                   39 mins             █████████░░░░░░░░░░░░░░░░   35.73 % 
+Neovim                   58 mins             █████████████████████░░░░   85.76 % 
+Claude Code              9 mins              ████░░░░░░░░░░░░░░░░░░░░░   14.24 % 
 
 💻 Operating System: 
-Mac                      1 hr 51 mins        █████████████████████████   100.00 % 
+Mac                      1 hr 8 mins         █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 hr 47 mins (96.48%)
+⏱ AI Coding Time: 19 mins (28.09%)
 
-✍️ 0 lines written by AI, 27 lines written by hand (0.0% AI-written)
+✍️ 0 lines written by AI, 548 lines written by hand (0.0% AI-written)
 
-🔤 559,613 Input Tokens, 46,945 Output Tokens
+🔤 80,412 Input Tokens, 3,200 Output Tokens
 
-💵 $3.26 Estimated AI Cost This Week
+💵 $0.22 Estimated AI Cost This Week
 
-🧠 3 AI Sessions, 13 AI Prompts
+🧠 1 AI Sessions, 1 AI Prompts
 
 Sonnet                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
-📚 Verbose Prompter — average 18,882 characters per prompt
-🔁 Iterative Prompter — average 4 prompts per session
+📝 Concise Prompter — average 34 characters per prompt
+🎯 One-Shot Prompter — average 1 prompts per session
 🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
 ```
 
@@ -93,5 +93,5 @@ Rust                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 09/10/2026 03:47:21 UTC
+ Last Updated on 10/10/2026 03:29:58 UTC
 <!--END_SECTION:waka-->
