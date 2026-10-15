@@ -9,7 +9,7 @@
 
 > 📦 29.0 kB Used in GitHub's Storage 
  > 
-> 🏆 1,822 Contributions in the Year 2026
+> 🏆 1,832 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -44,26 +44,26 @@ Sunday                   358 commits         ██████████░�
 🕑︎ Time Zone: Asia/Tokyo
 
 💬 Programming Languages: 
-Python                   31 mins             ████████████░░░░░░░░░░░░░   47.07 % 
-TypeScript               27 mins             ██████████░░░░░░░░░░░░░░░   41.25 % 
-conf                     4 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.04 % 
-fish                     3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.88 % 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.77 % 
+Python                   31 mins             █████████░░░░░░░░░░░░░░░░   36.28 % 
+TypeScript               27 mins             ████████░░░░░░░░░░░░░░░░░   31.79 % 
+conf                     24 mins             ███████░░░░░░░░░░░░░░░░░░   27.57 % 
+fish                     3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.76 % 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.59 % 
 
 🔥 Editors: 
-Neovim                   52 mins             ████████████████████░░░░░   78.68 % 
-Claude Code              14 mins             █████░░░░░░░░░░░░░░░░░░░░   21.32 % 
+Neovim                   1 hr 12 mins        █████████████████████░░░░   83.57 % 
+Claude Code              14 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.43 % 
 
 💻 Operating System: 
-Mac                      1 hr 7 mins         █████████████████████████   100.00 % 
+Mac                      1 hr 27 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 14 mins (21.32%)
+⏱ AI Coding Time: 14 mins (16.43%)
 
-✍️ 51 lines written by AI, 549 lines written by hand (8.5% AI-written)
+✍️ 51 lines written by AI, 550 lines written by hand (8.49% AI-written)
 
 🔤 91,183 Input Tokens, 9,792 Output Tokens
 
@@ -74,10 +74,10 @@ Mac                      1 hr 7 mins         ███████████�
 Sonnet                   51 lines            █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 8.5% of written lines came from AI
+🧑‍💻 Mostly Hands-On — 8.49% of written lines came from AI
 📝 Concise Prompter — average 113 characters per prompt
 🔁 Iterative Prompter — average 3 prompts per session
-🔍 Hands-On Reviewer — 92.13% of changed lines were hand-edited
+🔍 Hands-On Reviewer — 92.14% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -93,5 +93,5 @@ Rust                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 14/10/2026 02:49:58 UTC
+ Last Updated on 15/10/2026 02:28:57 UTC
 <!--END_SECTION:waka-->
