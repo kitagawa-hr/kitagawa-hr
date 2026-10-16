@@ -1,7 +1,7 @@
 ![](https://komarev.com/ghpvc/?username=kitagawa-hr)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C056%20hrs%202%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C056%20hrs%2022%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-7%20hrs%206%20mins-blue?style=flat)
 
@@ -9,7 +9,7 @@
 
 > 📦 29.0 kB Used in GitHub's Storage 
  > 
-> 🏆 1,832 Contributions in the Year 2026
+> 🏆 1,850 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -44,40 +44,21 @@ Sunday                   358 commits         ██████████░�
 🕑︎ Time Zone: Asia/Tokyo
 
 💬 Programming Languages: 
-Python                   31 mins             █████████░░░░░░░░░░░░░░░░   36.28 % 
-TypeScript               27 mins             ████████░░░░░░░░░░░░░░░░░   31.79 % 
-conf                     24 mins             ███████░░░░░░░░░░░░░░░░░░   27.57 % 
-fish                     3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.76 % 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.59 % 
+Python                   31 mins             ████████████░░░░░░░░░░░░░   48.21 % 
+conf                     20 mins             ████████░░░░░░░░░░░░░░░░░   31.37 % 
+TypeScript               13 mins             █████░░░░░░░░░░░░░░░░░░░░   20.42 % 
 
 🔥 Editors: 
-Neovim                   1 hr 12 mins        █████████████████████░░░░   83.57 % 
-Claude Code              14 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.43 % 
+Neovim                   1 hr 5 mins         █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      1 hr 27 mins        █████████████████████████   100.00 % 
+Mac                      1 hr 5 mins         █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 14 mins (16.43%)
-
-✍️ 51 lines written by AI, 550 lines written by hand (8.49% AI-written)
-
-🔤 91,183 Input Tokens, 9,792 Output Tokens
-
-💵 $0.52 Estimated AI Cost This Week
-
-🧠 1 AI Sessions, 3 AI Prompts
-
-Sonnet                   51 lines            █████████████████████████   100.00 % 
-
-🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 8.49% of written lines came from AI
-📝 Concise Prompter — average 113 characters per prompt
-🔁 Iterative Prompter — average 3 prompts per session
-🔍 Hands-On Reviewer — 92.14% of changed lines were hand-edited
+No AI Coding Activity Tracked This Week
 ```
 
 **I Mostly Code in Python** 
@@ -93,5 +74,5 @@ Rust                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 15/10/2026 02:28:57 UTC
+ Last Updated on 16/10/2026 02:22:51 UTC
 <!--END_SECTION:waka-->
