@@ -9,7 +9,7 @@
 
 > 📦 29.0 kB Used in GitHub's Storage 
  > 
-> 🏆 1,939 Contributions in the Year 2026
+> 🏆 1,941 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -44,19 +44,40 @@ Sunday                   358 commits         ██████████░�
 🕑︎ Time Zone: Asia/Tokyo
 
 💬 Programming Languages: 
-conf                     9 mins              █████████████████████████   100.00 % 
+Nix                      1 hr 4 mins         █████████████████░░░░░░░░   67.77 % 
+conf                     17 mins             █████░░░░░░░░░░░░░░░░░░░░   18.79 % 
+Other                    11 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.87 % 
+Markdown                 1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.57 % 
 
 🔥 Editors: 
-Neovim                   9 mins              █████████████████████████   100.00 % 
+Claude Code              1 hr 17 mins        ████████████████████░░░░░   81.99 % 
+Neovim                   17 mins             █████░░░░░░░░░░░░░░░░░░░░   18.01 % 
 
 💻 Operating System: 
-Mac                      9 mins              █████████████████████████   100.00 % 
+Mac                      1 hr 34 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-No AI Coding Activity Tracked This Week
+⏱ AI Coding Time: 1 hr 18 mins (82.41%)
+
+✍️ 7 lines written by AI, 9 lines written by hand (43.75% AI-written)
+
+🔤 164,914 Input Tokens, 16,378 Output Tokens
+
+💵 $1.59 Estimated AI Cost This Week
+
+🧠 2 AI Sessions, 12 AI Prompts
+
+Sonnet                   7 lines             █████████████████████████   100.00 % 
+Opus                     0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+
+🔎 AI Coding Insights:
+⚖️ Balanced with AI — 43.75% of written lines came from AI
+📄 Detailed Prompter — average 1,497 characters per prompt
+🔁 Iterative Prompter — average 6 prompts per session
+🔍 Hands-On Reviewer — 63.16% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -72,5 +93,5 @@ Rust                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 22/10/2026 02:35:23 UTC
+ Last Updated on 23/10/2026 02:40:05 UTC
 <!--END_SECTION:waka-->
